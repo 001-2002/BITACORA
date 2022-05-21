@@ -1,0 +1,272 @@
+/*UNIDAD 1 */
+.contenido #propi img{
+    
+    margin-left: 20%;   
+}
+.contenido #refe img{
+    margin-left: 20%;
+}
+#especi img{
+ margin-left: 20%;
+}
+.contenido #anima img{
+   margin-left: 20%;
+}
+.contenido #dom img{
+    margin-left: 20%;
+}
+.contenido #refere img{
+    margin-left: 20%;
+}
+.contenido #piedad img{
+    margin-left: 20%;
+}
+.contenido #event img{
+    margin-left: 20%;
+}
+.contenido #list img{
+    margin-left: 20%;
+}
+.contenido #etique img{
+    margin-left: 20%;
+}
+.contenido #med img{
+    margin-left: 20%;
+}
+
+/*UNIDAD 2*/
+.contenido #prow img{
+    margin-left: 20%;
+}
+.contenido #svg img{
+    margin-left: 20%;
+}
+.contenido #uni img{
+    margin-left: 20%;
+}
+.contenido #tipo img{
+    margin-left: 20%;
+}
+.contenido #formu img{
+    margin-left: 20%;
+    margin-bottom: 20px;
+}
+.contenido #rese img{
+    margin-left: 20%;
+}
+.contenido #med img{
+    margin-left: 20%;
+}
+.contenido #med img{
+    margin-left: 20%;
+}
+
+/*Unidad 3*/
+.contenido #Direc img{
+    margin-left: 20%;
+}
+.contenido #Rap img{
+    margin-left: 20%;
+}
+.contenido #Content img{
+    margin-left: 20%;
+}
+.contenido #Item img{
+    margin-left: 20%;
+}
+.contenido #boot img{
+    margin-left: 30%;   
+        width: 30%;
+}
+.contenido #skele img{
+    margin-left: 30%;   
+        width: 30%;
+}
+.contenido #pure img{
+    margin-left: 10%;   
+        width: 60%;
+}
+.contenido #frame img{
+    margin-left: 30%;   
+        width: 30%;
+}
+.contenido #flex img{
+    margin-left: 30%;   
+        width: 30%;
+}
+
+.contenido #movil img{
+    margin-left: 10%;   
+        width: 80%;
+}
+.contenido #patron img{
+    margin-left: 30%;   
+        width: 30%;
+}
+.contenido #look img{
+    margin-left: 30%;   
+        width: 30%;
+}
+
+
+
+
+
+@media screen and (max-width: 768px){
+    .contenido #event img{
+    margin-left: 15%;}
+    .contenido #Hola img{width: 50%;margin-left: 20%;}
+    .contenido #boot img{
+    margin-left: 20%;   
+        width: 60%;
+}
+.contenido #skele img{
+    margin-left: 20%;   
+        width: 60%;
+}
+.contenido frame img{
+    margin-left: 20%;   
+        width: 60%;
+}
+.contenido #flex img{
+    margin-left: 20%;   
+        width: 60%;
+}
+.contenido #movil img{
+    margin-left: 20%;   
+        width: 60%;
+}
+.contenido #patron img{
+    margin-left: 20%;   
+        width: 60%;
+}
+
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+}
+@media screen and (max-width: 480px){
+    .contenido #propi img{
+    
+    margin-left: 10%;   
+        width: 80%;
+}
+.contenido #refe img{
+    margin-left: 10%;   
+        width: 80%;
+}
+#especi img{
+margin-left: 10%;   
+        width: 80%;
+}
+.contenido #anima img{
+   margin-left: 10%;   
+        width: 80%;
+}
+.contenido #dom img{
+    margin-left: 10%;   
+        width: 80%;
+}
+    
+.contenido #refere img{
+    margin-left: 10%;   
+        width: 80%;
+}
+.contenido #piedad img{
+   margin-left: 10%;   
+        width: 80%;
+}
+.contenido #event img{
+   margin-left: 10%;   
+        width: 80%;
+}
+.contenido #list img{
+    margin-left: 10%;   
+        width: 80%;
+}
+.contenido #etique img{
+    margin-left: 10%;   
+        width: 80%;
+}
+.contenido #med img{
+    margin-left: 10%;   
+        width: 80%;
+}
+
+/*UNIDAD 2*/
+.contenido #prow img{
+    margin-left: 10%;   
+        width: 80%;
+}
+.contenido #svg img{
+margin-left: 10%;   
+        width: 80%;}
+.contenido #uni img{
+margin-left: 10%;   
+        width: 80%;}
+.contenido #tipo img{
+margin-left: 10%;   
+        width: 80%;}
+.contenido #formu img{
+    margin-left: 10%;
+    margin-bottom: 20px;   
+        width: 80%;
+}
+.contenido #rese img{
+margin-left: 10%;   
+        width: 80%;}
+.contenido #med img{
+margin-left: 10%;   
+        width: 80%;}
+.contenido #med img{
+margin-left: 10%;   
+        width: 80%;}
+    
+     .contenido #boot img{
+    margin-left: 20%;   
+        width: 60%;
+}
+.contenido #skele img{
+    margin-left: 20%;   
+        width: 60%;
+}
+.contenido frame img{
+    margin-left: 20%;   
+        width: 60%;
+}
+.contenido #flex img{
+    margin-left: 20%;   
+        width: 60%;
+}
+.contenido #movil img{
+    margin-left: 20%;   
+        width: 60%;
+}
+.contenido #patron img{
+    margin-left: 20%;   
+        width: 60%;
+}
+
+}
+
+
+
+
+
+
+
+
+
+
+
